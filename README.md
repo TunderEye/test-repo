@@ -4,4 +4,4 @@ Some description!
 
 ## Subheader
 
-Looks good.
+Looks good. Clear and nice.
